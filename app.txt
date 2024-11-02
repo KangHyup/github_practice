@@ -3,3 +3,4 @@ aaaaaaaaaaaa
 bbbbbbbbbbbb
 둘째 브렌치 머지 후 첫 커밋
 
+노트북이랑 git동기화에 마침내 성공했다!!
